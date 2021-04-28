@@ -10,7 +10,7 @@
 
 Bootcamp performed by rocketseat to take the next level in React development
 
-The main idea of this application is to play a posdcastr about development by Rockeatseat
+The main idea of this application is to play a posdcastr about development by Rocketseat
 
 ### 🛠 Tecnologias
 
